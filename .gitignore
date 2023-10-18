@@ -1,0 +1,7 @@
+.classpath
+.gitinore
+.projects
+.test.java
+/node_modules/
+.project
+
